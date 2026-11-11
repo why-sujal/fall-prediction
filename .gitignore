@@ -1,0 +1,7 @@
+.venv/
+data/
+results/trials_cache.pkl
+__pycache__/
+.ipynb_checkpoints/
+Report.zip
+prml_project_IS24BM005.zip

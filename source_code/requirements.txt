@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn>=1.1
+matplotlib
+joblib
+jupyterlab
+ipykernel
+nbconvert
